@@ -1,1 +1,2 @@
 pull update edildi.
+pull request denemesi
