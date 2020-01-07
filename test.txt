@@ -1,2 +1,3 @@
 pull update edildi.
 pull request denemesi
+cherry pick denemesi
